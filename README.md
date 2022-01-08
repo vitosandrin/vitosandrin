@@ -1,1 +1,1 @@
-Oi, eu me chamo Vito Sandrin, tenho 20 anos e estudo Java, HTML, CSS e JavaScript. Procurando pelo primeiro emprego na área.
+Oi, eu me chamo Vito Sandrin, tenho 20 anos e estudo SQLServer, HTML, CSS, JavaScript e ReactJS. Procurando pelo primeiro emprego na área.
