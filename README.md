@@ -1,1 +1,1 @@
-Desenvolvedor Front-end na .boxx Solutions
+Desenvolvedor Front-end .boxx Solutions
