@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Achei Pneus**
 
-- 🌱 I’m currently learning **Javascript,PHP, React and Node**
+- 🌱 I’m currently learning **Typescript, Javascript, React and Node**
 
 - 📫 How to reach me **sandrinvito10@gmail.com**
 
